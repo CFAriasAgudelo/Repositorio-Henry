@@ -1,2 +1,1 @@
-# Repositorio-Henry
-Este repositorio corresponde al primer HomeWork del modulo 2 Comandos Git y Github.
+Este repositorio corresponde al homework del modulo 2.
